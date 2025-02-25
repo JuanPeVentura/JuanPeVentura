@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Juan+Pedro+Ventura!;I'm+a+Blockchain+Hacker+...;I'm+also+Blockchain+Developer;And+I'm+a+proud+Argentinian+🇦🇷)](https://git.io/typing-svg)
 
-## I'm a Blockchain security researcher and developer
+## I'm a Blockchain security researcher and Backend Developer 
 
 - 👨‍💻 I’m currently working on competitives audits.
 - 📚 I’m currently learning formal verification 😅
@@ -20,9 +20,8 @@
 
 <h4> Frameworks </h4>
 <span>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </span>
 
 <h4> Databases </h4>

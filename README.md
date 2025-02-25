@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Juan+Pedro+Ventura!;I'm+a+Web3+Security+Researhcer+...;I'm+also+Backend+Developer;And+I'm+a+proud+Argentinian+🇦🇷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hey!+It's+Juan+Pedro+Ventura!;I'm+a+Web3+Security+Researcher+...;I'm+also+Backend+Developer;And+I'm+a+proud+Argentinian+🇦🇷)](https://git.io/typing-svg)
 
-## I'm a Blockchain security researcher and Backend Developer 
+## I'm a Blockchain security researcher and Junior Backend Developer 
 
 - 👨‍💻 I’m currently working on competitives audits.
 - 📚 I’m currently learning formal verification 😅

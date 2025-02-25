@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on competitives audits.
 - 📚 I’m currently learning formal verification 😅
 - 💪🏼 Future Goals: Learn more technologies - Open my own web3 security company.
-- ⚡ Fun fact: I learn new things and try crazt stuff.
+- ⚡ Fun fact: I love learn new things and try crazy stuff.
 
 ## My Skills Include
 

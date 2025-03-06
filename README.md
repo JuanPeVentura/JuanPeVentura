@@ -3,7 +3,7 @@
 ## I'm a Blockchain security researcher and Junior Backend Developer 
 
 - 👨‍💻 I’m currently working on competitives audits.
-- 📚 I’m currently learning formal verification 😅
+- 📚 I’m currently learning nodejs 😅
 - 💪🏼 Future Goals: Learn more technologies - Open my own web3 security company.
 - ⚡ Fun fact: I love learn new things and try crazy stuff.
 
